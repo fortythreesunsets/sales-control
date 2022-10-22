@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.proyecto1.springboot.jpa.app</groupId>
-	<artifactId>spring-boot-ventas</artifactId>
+	<artifactId>sales-control</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-boot-ventas</name>
+	<name>sales-control</name>
 	<description>Aplicación de gestión de ventas e inventario</description>
 	<properties>
 		<java.runtime.version>11</java.runtime.version>
