@@ -9,7 +9,7 @@
 		<version>2.6.4</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.proyecto1.springboot.jpa.app</groupId>
+	<groupId>com.fortythreesunsets.salescontrol.app</groupId>
 	<artifactId>sales-control</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>sales-control</name>
