@@ -16,3 +16,10 @@ Proyecto de práctica API REST desarrollado con Spring Boot MVC
 Fake data de https://www.mockaroo.com
 
 Deploy en Railway
+
+### Credenciales
+Usuario: admin
+Password: 12345
+
+Usuario: silvia
+Password: 12345
